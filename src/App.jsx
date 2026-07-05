@@ -25,7 +25,7 @@ function App() {
           type="button"
           className="counter"
           onClick={() => setCount((count) => count + 1)}>
-          {count}번을 클릭하셨어요 !!
+          {count}번을 클릭하셨어요 Nice Day !!
         </button>
       </section>
 
